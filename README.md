@@ -43,8 +43,8 @@ I am Software Testing Engineer
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+## Web Service Testing
 
-<a href="https://docs.google.com/spreadsheets/d/1wYJ2VQesHOSZf9H3CxYcs0inaMZG_XWG_WblCXef-yg/edit?usp=sharing" target="_blank">qa.rostislav@gmail.com</a>
-
+<a href="https://docs.google.com/spreadsheets/d/1wYJ2VQesHOSZf9H3CxYcs0inaMZG_XWG_WblCXef-yg/edit?usp=sharing" target="_blank">"Manual profile testing"</a>: test-case
 
 
