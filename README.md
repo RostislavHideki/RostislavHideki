@@ -1,3 +1,40 @@
-Связаться со мной
-+7 (925) 000 46 15
-qa.rostislav@gmail.com
+<h1 align="center">Hi there, I'm <a href="https://vk.com/boecotechestva" target="_blank">Rostislav</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+I am Software Testing Engineer
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me)](https://git.io/typing-svg)
+
+
+  
+- I like to solve logic puzzles and find bugs.
+
+- I take a great interest in programming, I am interested in innovations in the field of IT.
+
+- Completed several courses in Java programming
+
+- I improve in testing web-applications, desktop-applications and mobile-applications, as well as writing autotests in Java and JavaScript,
+  I'm learning Python at the same time.
+
+
+## 	:page_with_curl: Test documentation:
+
+- Test design, checklists, test cases
+- Bug-Reports
+- SQL queries
+- Work with API in Postman
+
+## 	:man_technologist: Languages and tools:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
