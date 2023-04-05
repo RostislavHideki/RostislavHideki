@@ -18,7 +18,7 @@ I am Software Testing Engineer
 
 - I take a great interest in programming, I am interested in innovations in the field of IT.
 
-- Completed several courses in Java programming
+- I took several courses in Java programming.
 
 - I improve in testing web-applications, desktop-applications and mobile-applications, as well as writing autotests in Java and JavaScript,
   I'm learning Python at the same time.
