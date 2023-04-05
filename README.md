@@ -1,3 +1,10 @@
+##  Contact with me
+- +7(925)-000-46-15
+- <a href="https://t.me/RugoHideki" target="_blank">@RugoHideki</a>
+- <a href="qa.rostislav@gmail.com" target="_blank">qa.rostislav@gmail.com</a>
+
+
+
 <h1 align="center">Hi there, I'm <a href="https://vk.com/boecotechestva" target="_blank">Rostislav</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 I am Software Testing Engineer
