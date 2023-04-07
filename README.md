@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/boecotechestva" target="_blank">Rostislav</a>
+<h1 align="center">Hi there, I'm Rostislav</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 I am Software Testing Engineer
 </h1>
