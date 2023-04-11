@@ -47,4 +47,3 @@ I am Software Testing Engineer
 
 <a href="https://clck.ru/346qBk" target="_blank">"Manual testing Ozon"</a>: Check-list (Example)
 
-<a href="" target="_blank">"Testing API"</a>: Work in postman
