@@ -43,8 +43,8 @@ I am Software Testing Engineer
 
 ## Web Service Testing
 
-<a href="https://clck.ru/344P2x" target="_blank">"Manual testing of profile settings"</a>: Test-case
+<a href="https://clck.ru/344P2x" target="_blank">Manual testing of profile settings</a> : Test-case
 
-<a href="https://clck.ru/346qBk" target="_blank">"Manual testing Ozon"</a>: Check-list (Example)
+<a href="https://clck.ru/346qBk" target="_blank">Manual testing Ozon</a> : Check-list (Example)
 
-<a href="https://clck.ru/349qER" target="_blank">"Testing "Digital Lab""</a>: Bug-report
+<a href="https://clck.ru/349qER" target="_blank">Testing "Digital Lab</a> : Bug-report
