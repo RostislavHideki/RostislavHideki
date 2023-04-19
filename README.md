@@ -41,6 +41,9 @@ I am Software Testing Engineer
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Web Service Testing
 
 <a href="https://clck.ru/344P2x" target="_blank">Manual testing of profile settings</a> : Test-case
