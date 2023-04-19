@@ -42,8 +42,6 @@ I am Software Testing Engineer
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RostislavHideki&theme=radical&languages=java)
-
 ## Web Service Testing
 
 <a href="https://clck.ru/344P2x" target="_blank">Manual testing of profile settings</a> : Test-case
