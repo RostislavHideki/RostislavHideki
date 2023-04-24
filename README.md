@@ -48,4 +48,3 @@ I am Software Testing Engineer
 
 <a href="https://clck.ru/346qBk" target="_blank">Testing form</a> : Check list 
 
-<a href="https://clck.ru/349qER" target="_blank">Testing "Digital Lab"</a> : Bug-report
