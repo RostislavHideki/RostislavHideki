@@ -41,6 +41,7 @@ I am Software Testing Engineer
 - Bug-Reports (Jira)
 - SQL simple queries
 - Work with API (Postman)
+- Programming language (Java)
 
 ## :man_technologist: Languages and tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
