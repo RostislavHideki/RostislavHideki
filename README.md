@@ -37,7 +37,7 @@ I am Software Testing Engineer
 - Programming language (Java)
 
 
-## :Work Experience:
+## Work Experience:
 
 WebDream March 2022 - March 2023
 Web testing: 
@@ -51,7 +51,7 @@ Web testing:
 - Testing of software business logic
 
 
-## :man_technologist: :
+## :man_technologist: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
