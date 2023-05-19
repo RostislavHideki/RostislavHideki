@@ -36,6 +36,21 @@ I am Software Testing Engineer
 - Work with API (Postman)
 - Programming language (Java)
 
+
+## :Work Experience:
+
+WebDream March 2022 - March 2023
+Web testing: 
+
+- Functional, GUI (Smoke, regression)
+- Test documentation creation (Check lists, test cases, bug
+  reports)
+- Analysis of test results and quality report creation
+- Bug reporting in Jira
+- Communication with the customer and developer
+- Testing of software business logic
+
+
 ## :man_technologist: :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
