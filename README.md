@@ -24,9 +24,9 @@ I am Software Testing Engineer
   I'm learning Python at the same time.
 
 
-## :page_with_curl:Test documentation:
+## :page_with_curl:Knowledge:
 
-- Test design, checklists, test cases
+- Checklists, test cases
 - Bug-Reports
 - SQL queries
 - Work with API in Postman
