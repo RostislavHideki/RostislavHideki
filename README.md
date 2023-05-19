@@ -12,14 +12,14 @@ I am Software Testing Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me)](https://git.io/typing-svg)
 
-Testing theory
-  Test documentation creation (check lists, test cases, bug
-  reports)
-  Analysis of test results and quality report creation
-  Test design techniques (equivalence partitioning,
-  boundary value analysis)
-  Web testing: Functional, GUI (Smoke, Critical pass,
-  Extended, Regression)
+  Testing theory
+  Test documentation creation (check lists, test cases, bug
+  reports)
+  Analysis of test results and quality report creation
+  Test design techniques (equivalence partitioning,
+  boundary value analysis)
+  Web testing: Functional, GUI (Smoke, Critical pass,
+  Extended, Regression)
   Understanding of Client-Server Architecture
   
 - I like to solve logic puzzles and find bugs.
