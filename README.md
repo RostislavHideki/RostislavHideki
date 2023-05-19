@@ -21,8 +21,7 @@ I am Software Testing Engineer
   Test design techniques (equivalence partitioning,
   boundary value analysis)
   
-  Web testing: Functional, GUI (Smoke, Critical pass,
-  Extended, Regression)
+  Web testing: Functional, GUI (Smoke, Regression)
   
   Understanding of Client-Server Architecture
   
