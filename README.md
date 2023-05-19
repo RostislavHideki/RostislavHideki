@@ -14,16 +14,16 @@ I am Software Testing Engineer
 
   Testing theory:
   
-  Test documentation creation (check lists, test cases, bug
+- Test documentation creation (check lists, test cases, bug
   reports)
   
-  Analysis of test results and quality report creation
+- Analysis of test results and quality report creation
   Test design techniques (equivalence partitioning,
   boundary value analysis)
   
-  Web testing: Functional, GUI (Smoke, Regression)
+-  Web testing: Functional, GUI (Smoke, Regression)
   
-  Understanding of Client-Server Architecture
+-  Understanding of Client-Server Architecture
   
 - I like to solve logic puzzles and find bugs.
 
