@@ -12,7 +12,15 @@ I am Software Testing Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me)](https://git.io/typing-svg)
 
-
+Testing theory
+  Test documentation creation (check lists, test cases, bug
+  reports)
+  Analysis of test results and quality report creation
+  Test design techniques (equivalence partitioning,
+  boundary value analysis)
+  Web testing: Functional, GUI (Smoke, Critical pass,
+  Extended, Regression)
+  Understanding of Client-Server Architecture
   
 - I like to solve logic puzzles and find bugs.
 
@@ -26,10 +34,10 @@ I am Software Testing Engineer
 
 ## :page_with_curl:Knowledge:
 
-- Checklists, test cases
-- Bug-Reports
-- SQL queries
-- Work with API in Postman
+- Devtools 
+- Bug-Reports (Jira)
+- SQL simple queries
+- Work with API (Postman)
 
 ## :man_technologist: Languages and tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
