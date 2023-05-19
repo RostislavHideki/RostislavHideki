@@ -10,7 +10,7 @@
 I am Software Testing Engineer
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me+and+my+knowledge)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=600&lines=About+me+and+my+knowledge)](https://git.io/typing-svg)
 
   
 - Test documentation creation (check lists, test cases, bug
