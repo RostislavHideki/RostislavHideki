@@ -10,9 +10,8 @@
 I am Software Testing Engineer
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=435&lines=About+me+and+my+knowledge)](https://git.io/typing-svg)
 
-  Testing theory:
   
 - Test documentation creation (check lists, test cases, bug
   reports)
@@ -31,15 +30,11 @@ I am Software Testing Engineer
 
 - I took several courses in Java programming.
 
-- I improve in testing web-applications, desktop-applications and mobile-applications, as well as writing in Java and JavaScript,
-  I'm learning Python at the same time.
-
-
 ## :page_with_curl:Knowledge:
 
 - Devtools 
 - Bug-Reports (Jira)
-- SQL simple queries
+- SQL simple queries (PostgreSQL)
 - Work with API (Postman)
 - Programming language (Java)
 
