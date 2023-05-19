@@ -23,12 +23,10 @@ I am Software Testing Engineer
 -  Web testing: Functional, GUI (Smoke, Regression)
   
 -  Understanding of Client-Server Architecture
-  
-- I like to solve logic puzzles and find bugs.
 
 - I take a great interest in programming, I am interested in innovations in the field of IT.
 
-- I took several courses in Java programming.
+- I took several courses in Java programming and at the same time I study autotesting.
 
 ## :page_with_curl:Tools:
 
