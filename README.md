@@ -59,9 +59,3 @@ Web testing:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Web Service Testing
-
-<a href="https://clck.ru/344P2x" target="_blank">Manual testing of profile settings</a> : Test-case
-
-<a href="https://clck.ru/346qBk" target="_blank">Testing form</a> : Check list 
-
