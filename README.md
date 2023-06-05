@@ -30,7 +30,7 @@ Good practical skills in manual, now I'm studying automated testing.
   
 -  Understanding of Client-Server Architecture
 
-- I took several courses in Java programming and at the same time I study autotesting.
+- I took several courses in Java programming
 
 ## :page_with_curl:Tools:
 
