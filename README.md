@@ -46,7 +46,7 @@ Good practical skills in manual, now I'm studying automated testing.
 WebDream March 2022 - March 2023
 Web testing: 
 
-- Functional testing ( Smoke, regression )
+- Functional testing (Smoke, regression)
 - Test documentation creation (Check lists, test cases, bug
   reports)
 - Analysis of test results and quality report creation
