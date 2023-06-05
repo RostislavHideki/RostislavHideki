@@ -13,7 +13,7 @@ I am Software Testing Engineer
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=0E20F7&background=F97CFF00&width=600&lines=About+me+and+my+knowledge)](https://git.io/typing-svg)
 
 - There is an understanding in software development processes, a theoretical base based on the study of specialized books, journalistic articles.
-Good practical skills in manual and automated testing.
+Good practical skills in manual, now I'm studying automated testing.
 
 - I constantly strive to improve my level as a specialist. The priority is to become a Lead in QA and fully control the quality of the software.
 
