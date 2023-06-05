@@ -30,8 +30,6 @@ Good practical skills in manual and automated testing.
   
 -  Understanding of Client-Server Architecture
 
-- I take a great interest in programming, I am interested in innovations in the field of IT.
-
 - I took several courses in Java programming and at the same time I study autotesting.
 
 ## :page_with_curl:Tools:
