@@ -20,7 +20,7 @@ I am Software Testing Engineer
   Test design techniques (equivalence partitioning,
   boundary value analysis)
   
--  Web testing: Functional, GUI (Smoke, Regression)
+-  Web testing: Functional ( Smoke, regression )
   
 -  Understanding of Client-Server Architecture
 
@@ -42,7 +42,7 @@ I am Software Testing Engineer
 WebDream March 2022 - March 2023
 Web testing: 
 
-- Functional, GUI (Smoke, regression)
+- Functional testing ( Smoke, regression )
 - Test documentation creation (Check lists, test cases, bug
   reports)
 - Analysis of test results and quality report creation
